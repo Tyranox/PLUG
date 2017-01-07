@@ -16,7 +16,7 @@
     "ccc": {
         "admin": null,
         "ambassador": null,
-        "host":  "#87CEFA ",
+        "host":  "#87CEFA",
         "cohost":  "#20B2AA",
         "manager": "#00FF7F",
         "bouncer":  "#FF0000",
@@ -31,7 +31,7 @@
         "playback": null,
         "admin": null,
         "ambassador": null,
-        "host": null,
+        "host": "http://imgur.com/a/kGahh",
         "cohost": null,
         "manager": null,
         "bouncer": null,
