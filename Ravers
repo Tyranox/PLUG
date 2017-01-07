@@ -2,7 +2,7 @@
     "room": "House of Ravers",
     "author": "Tyranox",
     "icon": null,
-    "css": null,
+    "css": "https://rawgit.com/Tyranox/PLUG/master/Ravers",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
