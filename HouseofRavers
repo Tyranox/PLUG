@@ -1,6 +1,6 @@
 {
-    "room": "Community Name",
-    "author": "Author",
+    "room": "House of Ravers",
+    "author": "Tyranox",
     "icon": null,
     "css": null,
     "rules": {
@@ -10,7 +10,7 @@
         "allowAutograb": true,
         "allowSmartVote": true,
         "allowEmotes": true,
-        "allowShowingMehs": true,
+        "allowShowingMehs": false,
         "forceSmartVote": false
     },
     "ccc": {
@@ -27,7 +27,7 @@
         "user": null
     },
     "images": {
-        "background": null,
+        "background": "http://i.imgur.com/k9zVa92.png",
         "playback": null,
         "admin": null,
         "ambassador": null,
