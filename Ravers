@@ -167,6 +167,7 @@
         "!counters": 100,
         "!slotscounters": 100,
         "!statscounters": 100
+        },
     "emotes": {
     	"emote_name": null,
         "banner": "http:\/\/imgur.com\/Is19MIx.png"
