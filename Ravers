@@ -40,6 +40,7 @@
         "silversubscriber": null
 },
     "emotes": {
-    	"emote_name": null
+    	"emote_name": null,
+        "banner": "http:\/\/imgur.com\/Is19MIx.png"
     }
 }
