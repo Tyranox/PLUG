@@ -28,7 +28,7 @@
     },
     "images": {
         "background": "http:\/\/i.imgur.com\/k9zVa92.png",
-        "playback": "http:\/\/imgur.com\/Is19MIx.png",
+        "playback": null,
         "admin": null,
         "ambassador": null,
         "host": null,
